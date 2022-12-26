@@ -103,5 +103,5 @@ theme: webstack
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repository: git@github.com:MengNianxiaoyao/blog-nav.git
+  repository: https://github.com/MengNianxiaoyao/blog-nav.git
   branch: gh-pages
